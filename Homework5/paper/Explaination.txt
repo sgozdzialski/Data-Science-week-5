@@ -1,0 +1,9 @@
+In this data set we cleared out any bad data while we looke for a relationship between the sale price and square
+footage of 1,2, and 3 family homes in Brooklyn New Yorrk.  We first removed the eronious data related to our search
+criteria. Then looked at the data to see if it fit in a normal distribution with equal variance.  Once we looked at
+the data we determined it was a candidate for a log transformation.
+
+After looking at the log transformed data on a plot we can see there is a slight correlation between the ratio of
+medians of sales price and square footage.  The relationship does os not strong but we would need to do more
+test to give you a true understanding of how weak that relationship is between home sale price and square footage
+of home in Brooklyn New York.
